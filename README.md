@@ -10,6 +10,7 @@ Run this in your terminal
 
 # MDS setup check 0.1.0
 
+```
 If a program or package is marked as MISSING,
 this means that you are missing the required version of that program or package.
 Either it is not installed at all or the wrong version is installed.
@@ -67,3 +68,4 @@ OK        rmarkdown PDF-generation was successful
 
 This output and additional configuration details
 have been saved to the file check-setup-mds.log in this directory.
+```
