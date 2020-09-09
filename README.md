@@ -1,5 +1,8 @@
 # check_install_script
 
+This script is from the UBC Vancouver MDS Install Stack: https://ubc-mds.github.io/resources_pages/installation_instructions/
+
+
 ## Usage
 
 Run this in your terminal
